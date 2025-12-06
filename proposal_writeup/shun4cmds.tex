@@ -1,0 +1,40 @@
+\newcommand{\bs}{\textbackslash}
+\newcommand{\boxtxt}[1]{\boxed{\text{#1}}}
+
+\tcbuselibrary{listings}
+\newtcblisting{shuncode}{
+    listing only,
+    listing options={
+        language=C,
+        basicstyle=\ttfamily\small,
+        keywordstyle=\color{blue},
+        commentstyle=\color{green!50!black},
+        stringstyle=\color{red}
+    },
+    colback=cyan!10,
+    colframe=cyan!80!black,
+    boxrule=2pt,
+    left=0pt,
+    right=0pt,
+    top=0pt,
+    bottom=0pt,
+    boxsep=0pt,
+    arc=5pt,
+    enhanced
+}
+
+\newtcblisting{shuncmd}[1][]{
+  listing only,
+  listing options={
+    language=bash,
+    basicstyle=\ttfamily\small,
+    keywordstyle=\color{blue},
+    commentstyle=\color{green!50!black},
+    stringstyle=\color{red},
+    breaklines=true
+  },
+  colframe=cyan!80!black,
+  colback=cyan!10,
+  title={#1},
+  enhanced,
+}
