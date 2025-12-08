@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber ICM_Final"] 0 "ICM_Final.bcf" "ICM_Final.bbl" "ICM_Final" 1765004230.84917 0
+["biber ICM_Final"] 0 "ICM_Final.bcf" "ICM_Final.bbl" "ICM_Final" 1765181997.4823 0
   "ICM_Final.bcf" 0 -1 0 "pdflatex"
   "references.bib" 0 -1 0 ""
   (generated)
   "ICM_Final.bbl"
   "ICM_Final.blg"
   (rewritten before read)
-["pdflatex"] 1765004228.51081 "/Users/shun4midx/Documents/Shun4miCodes/Shun4miSchool/Year3/Year3_Fall/Year3_Fall_Coursework/CompMath/ICM_Final_Project/final_writeup/ICM_Final.tex" "ICM_Final.pdf" "ICM_Final" 1765004230.8497 0
-  "/Users/shun4midx/Documents/Shun4miCodes/Shun4miSchool/Year3/Year3_Fall/Year3_Fall_Coursework/CompMath/ICM_Final_Project/final_writeup/ICM_Final.tex" 1765004228.17977 330 1f89fa3a5aef92638786043d0d4620d4 ""
+["pdflatex"] 1765181995.21145 "/Users/shun4midx/Documents/Shun4miCodes/Shun4miSchool/Year3/Year3_Fall/Year3_Fall_Coursework/CompMath/ICM_Final_Project/final_writeup/ICM_Final.tex" "ICM_Final.pdf" "ICM_Final" 1765181997.48281 0
+  "/Users/shun4midx/Documents/Shun4miCodes/Shun4miSchool/Year3/Year3_Fall/Year3_Fall_Coursework/CompMath/ICM_Final_Project/final_writeup/ICM_Final.tex" 1765181994.8926 359 696f563d15011176786b5a899593d205 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -206,11 +206,11 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1725543852.35766 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1725543776 8221449 992366545fd8765e6228019ce1cc2718 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "ICM_Final.aux" 1765004230.52886 283 b251d622155e99a8ca2fbd90a87c8767 "pdflatex"
+  "ICM_Final.aux" 1765181997.17436 283 b251d622155e99a8ca2fbd90a87c8767 "pdflatex"
   "ICM_Final.bbl" 0 -1 0 "biber ICM_Final"
-  "ICM_Final.out" 1765004230.18692 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "ICM_Final.run.xml" 1765004230.53243 2346 ddb304141f51fd7ee44590d82f7727b9 "pdflatex"
-  "ICM_Final.tex" 1765004228.17977 330 1f89fa3a5aef92638786043d0d4620d4 ""
+  "ICM_Final.out" 1765181996.84015 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "ICM_Final.run.xml" 1765181997.17755 2346 ddb304141f51fd7ee44590d82f7727b9 "pdflatex"
+  "ICM_Final.tex" 1765181994.8926 359 696f563d15011176786b5a899593d205 ""
   "shun4cmds.tex" 1763542078.3099 827 0008cc19fa544da5fb6fbd2d32304284 ""
   "shun4colors.tex" 1763542078.31419 1025 0dc2d0113642f670a1131662acad4a84 ""
   "shun4imports.tex" 1763542078.31699 777 ceb9c6c103ea67f1c6a85f1296dda1d0 ""
