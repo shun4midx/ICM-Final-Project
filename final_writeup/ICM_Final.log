@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.5)  8 DEC 2025 16:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.5)  8 DEC 2025 16:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1145,11 +1145,18 @@ Package biblatex Info: Automatic encoding selection.
 \openout4 = `ICM_Final.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'ICM_Final.bbl' not found.
-
-No file ICM_Final.bbl.
+Package biblatex Info: ... file 'ICM_Final.bbl' found.
+ (./ICM_Final.bbl)
 Package biblatex Info: Reference section=0 on input line 10.
 Package biblatex Info: Reference segment=0 on input line 10.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 40.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1160,7 +1167,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
-] (./ICM_Final.aux)
+]
+
+LaTeX Warning: Empty bibliography on input line 67.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2] (./ICM_Final.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1172,18 +1190,18 @@ Package logreq Info: Writing requests to 'ICM_Final.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39385 strings out of 474116
- 793852 string characters out of 5743683
- 1930187 words of memory out of 5000000
- 61198 multiletter control sequences out of 15000+600000
- 563711 words of font info for 44 fonts, out of 8000000 for 9000
+ 39528 strings out of 474116
+ 796320 string characters out of 5743683
+ 1949187 words of memory out of 5000000
+ 61304 multiletter control sequences out of 15000+600000
+ 566359 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  107i,11n,110p,816b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on ICM_Final.pdf (1 page, 28043 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on ICM_Final.pdf (2 pages, 45557 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 500000)
+ 106 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
+ 31 named destinations out of 1000 (max. 500000)
  157 words of extra memory for PDF output out of 10000 (max. 10000000)
 
