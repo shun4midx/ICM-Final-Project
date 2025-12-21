@@ -1,6 +1,6 @@
 __pycache__
 *.aux
-*.bbl
+*.bbl*
 *.bcf
 *.blg
 *.fdb_latexmk
