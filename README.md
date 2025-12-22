@@ -1,2 +1,2 @@
-# CompMath-Final-Project
+# ICM-Final-Project
 Introduction to Computational Mathematics (ICM/CompMath) Final Project
