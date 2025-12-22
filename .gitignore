@@ -11,4 +11,5 @@ __pycache__
 *.synctex.gz
 *.listing
 .DS_Store
-ICM_Final*
+*ICM_Final.pdf
+*ICM_Final.tex
