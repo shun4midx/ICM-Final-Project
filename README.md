@@ -2,7 +2,7 @@
 Introduction to Computational Mathematics (ICM/CompMath) Final Project
 
 ## Project One Page Overview
-![One Page Overview](https://github.com/shun4midx/Watermarked%20One%20Page%20Overview.png)
+<img src="Watermarked%20One%20Page%20Overview.png"/>
 
 ## Requirements
 The code was tested with:
