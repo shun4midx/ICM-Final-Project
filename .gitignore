@@ -9,4 +9,5 @@ __pycache__
 *.out
 *.run.xml
 *.synctex.gz
+*.listing
 .DS_Store
