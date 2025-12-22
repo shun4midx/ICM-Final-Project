@@ -567,9 +567,8 @@ def psnr(mse):
 
 \vspace{1.0em}\bluesec{Appendix C: Mathematical Formulae}
 
-\noindent The formulations below are included for completeness and reference. Conceptual explanations and interpretations required for this project are provided in the ``Background and Theoretical Framework'' subsection.
+\noindent The formulations below are included for completeness and reference. Conceptual explanations and interpretations required for this project are provided in the ``Background and Theoretical Framework'' subsection. \\
 
-\newpage
 \purplesec{C.1 Image and Forward Model}
 
 \noindent A color image is modeled as a discrete RGB function
@@ -589,7 +588,7 @@ where $K$ is a convolution operator and $\eta$ is additive Gaussian noise with v
 (Kx)(i,j,c) = \sum_{u,v} k(u,v)\,x(i-u,j-v,c).
 \]
 
-\vspace{1.0em}
+\newpage
 \purplesec{C.2 Tikhonov-Regularized Inverse Problem}
 
 \noindent Recovering $x$ from $y$ is an ill-posed inverse problem, which manifests numerically as instability under noise. To stabilize the inversion, we solve the Tikhonov-regularized least squares problem
