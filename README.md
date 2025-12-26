@@ -30,6 +30,7 @@ git clone https://github.com/shun4midx/ICM-Final-Project
 2. Go to the correct folder
 
 ```bash
+cd ICM-Final-Project
 cd code
 cd src
 ```
